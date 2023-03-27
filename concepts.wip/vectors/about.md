@@ -1,4 +1,6 @@
-<!-- TODO Write intro -->
+# About
+
+
 
 ## Terminology
 
